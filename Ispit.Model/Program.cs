@@ -1,9 +1,7 @@
-﻿using System;
+﻿using Ispit.Model.Klase;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Ispit.Model.Klase;
 
 namespace Ispit.Model
 {
